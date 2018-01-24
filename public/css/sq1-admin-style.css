@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.navbar-nav .dropdown-menu.sq1-pull-left{
+	margin-left: -100px;
+}
+#mainNav .navbar-collapse .navbar-nav > .nav-item.dropdown > .nav-link:after{
+	content: none;
+}
+#mainNav .navbar-collapse .navbar-nav > .nav-item.dropdown.show > .nav-link:after{
+	content: none;
+}
+.btn-group i{
+	cursor: pointer;
+}
+.pull-center{
+	text-align: center;
+    width: 89%;
+    display: block;
+    float: left;
+    margin: auto;
+}
+.panel-heading{
+	width:100%;
+}
+.panel-body table th{
+	font-weight: normal;
+}
+.get-total-ticket-solved{
+	margin-top: 20px;
+}
+
+.panel.panel-primary{
+	    padding: 0px 28px;
+}
+.date-nav{
+	width: 32%;
+    float: right;
+}
+.card-header h5{
+	float: left;
+}
+
+.card-header{
+	width: 100%;
+}
+.thumb-paragraph{
+	width: 100%;
+}
+.thumb-img{
+	width: 100%;
+	height: 150px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+section.blog-section{
+	width: 100%;
+}
+.btn-default{
+	background: rgba(0,0,0,0);
+}
+
+.featured-blog-section{
+	width: 100%;
+}
